@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angela</h1>
-<h3 align="center">A passionate or passionless in becoming a Data Analyst</h3>
+<h3 align="center">A passionate or ... in becoming a Data Analyst</h3>
 
-- 🌱 I’m currently interested **on learning more about data analysis, python, and determining my will to live**
+- 🌱 I’m currently interested **on learning more about data analysis, python, and yeah**
 
 - 💬 Ask me about **nothing...**
 
